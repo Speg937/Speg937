@@ -11,4 +11,4 @@ def guess(x):
             print("guess again. The number is too high.")
         
     print(f"Congrats. You guessed the number {random_number}.")
-guess(50)
+guess(50) #the number of range can change
